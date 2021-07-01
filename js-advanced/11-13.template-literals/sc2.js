@@ -47,8 +47,9 @@ const htmHewan = `
 		)
 		.join("")}
 </div>
-`;
-// document.body.innerHTML = htmHewan;
+`; // join => untuk menghilangkan koma ketika array digabungkan
+//document.body.innerHTML = htmHewan;
+document.body.innerHTML = hewan.map((h)=> `${h.nama}`).join(" ")
 
 // -----------------------
 // 3. Conditional
@@ -115,4 +116,6 @@ const htmlSantri = `
 	)}
 </div>
 `;
-document.body.innerHTML = htmlSantri;
+//document.body.innerHTML = htmlSantri;
+
+

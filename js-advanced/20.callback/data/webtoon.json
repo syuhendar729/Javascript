@@ -1,0 +1,23 @@
+[
+	{
+		"judul":"The Real Lesson",
+		"rating":8,
+		"genre":"Action",
+		"status": "ongoing",
+		"id": 1
+	},
+	{
+		"judul":"Study Group",
+		"rating": 9,
+		"genre": "Action",
+		"status":"hiatus season 2",
+		"id":2
+	},
+	{
+		"judul":"Weak Hero",
+		"rating":7.5,
+		"genre":"Action",
+		"status":"ongoing",
+		"id":3
+	}
+]
