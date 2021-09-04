@@ -13,9 +13,12 @@ Sebuah proses pengujian perangkat lunak dapat dilakukan secara:
 Proses pengujian secara manual oleh seorang yang ditunjuk sebagai test, atau sebagian pengguna yang memang mendapatkan
 akses untuk pengujian pre-release. Proses ini biasanya berkaitan dengan usability, accessibility dari sebuah aplikasi.
 
-- Manual
-Proses pengujian secara manual oleh seorang yang ditunjuk sebagai test, atau sebagian pengguna yang memang mendapatkan
-akses untuk pengujian pre-release. Proses ini biasanya berkaitan dengan usability, accessibility dari sebuah aplikasi.
+- Otomatis
+Proses pengujian secara otomatis dilakukan oleh komputer dengan menuliskan script khusus, biasanya dilakukan oleh
+software engineer langsung ataupun oleh seorang QA Engineer. Proses ini biasanya berkaitan dengan fungsionalitas dari
+sebuah aplikasi.
+
+
 
 Dari proses pengujian di atas, jenis-jenis pengujian dalam pengembangan perangkat lunak secara umum dapat dibagi menjadi
 4 jenis pengujian, yaitu:
