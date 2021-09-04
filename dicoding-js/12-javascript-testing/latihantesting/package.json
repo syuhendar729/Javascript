@@ -1,0 +1,19 @@
+{
+  "name": "latihantesting",
+  "version": "1.0.0",
+  "description": "Latihan testing",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "javascript",
+    "testing",
+    "jest"
+  ],
+  "author": "syuhendar729",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.1.0"
+  }
+}
